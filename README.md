@@ -9,14 +9,14 @@ A plataforma [**SimulaCOVID**](https://simulacovid.coronacidades.org/) busca atu
 
 Criada por dois brasileiros egressos do _Master in Public Administration_ da Harvard Kennedy School, uma das mais prestigiadas escolas de administração pública do mundo, a solução é dividida em várias etapas, a serem abordadas a seguir.
 
-#### Análise da plataforma
+### Análise da plataforma
 
 O site é _bastante intuitivo_: há, em seu início, um [vídeo-tutorial](https://youtu.be/-4Y0wHMmWAs) explicando como o SimulaCOVID deve ser utilizado. A seguir, há, em ordem:
 
   1. **Seleção de região:** É necessário selecionar estado e município/região SUS.
   2. **Verificação de dados:** É possível verificar se os dados, para a sua região, estão atualizados e, em caso negativo, adequar os valores até chegarem aos corretos.
   3. **Análise do resultado:** A plataforma informa em quantos dias, em cenários de nenhuma política de restrição e com isolamento social, serão atingidas a capacidade máxima de leitos e ventiladores. Fazendo um teste para Belo Horizonte, a plataforma indica que, com isolamento social, demoraríamos **mais de 90 dias** para entrar em colapso. 
-  4. **Próximos passos:** É possível simular o resultado de possíveis intervenções, informando em quantos dias se pretende adotar a estratégia de medidas restritivas e, logo após, a quarentena. Por fim, a plataforma provê um gráfico (_expresso abaixo, em que simulei o cenário atuar de Belo Horizonte_) para mostrar, na curva amarela, a demanda por leitos, e, na curva azul, a demanda por respiradores. Em ambas, **a curva nunca pode ficar maior que a reta**.
+  4. **Próximos passos:** É possível simular o resultado de possíveis intervenções, informando em quantos dias se pretende adotar a estratégia de medidas restritivas e, logo após, a quarentena. Por fim, a plataforma provê um gráfico (_expresso abaixo, em que simulei o cenário atual de Belo Horizonte_) para mostrar, na curva amarela, a demanda por leitos, e, na curva azul, a demanda por respiradores. Em ambas, **a curva nunca pode ficar maior que a reta**.
   
   ![alt text](https://i.imgur.com/wENABbW.png)
   
