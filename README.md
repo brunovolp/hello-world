@@ -1,5 +1,6 @@
 # hello-world
 Análise e Visualização de Dados em R - Aula 3
+[Bruno Volpini Guimarães](https://www.linkedin.com/in/bruno-volpini-guimar%C3%A3es-775a76105/)
 
 ## SimulaCOVID: um simulador feito por gestores públicos para a gestão pública
 
